@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="file1" type="id"/>
+    <item name="file2" type="id"/>
+    <item name="file3" type="id"/>
+    <item name="file4" type="id"/>
+    <item name="file5" type="id" />
+    <item name="edit1" type="id" />
+    <item name="edit2" type="id" />
+    <item name="edit3" type="id" />
+    <item name="edit4" type="id" />
+    <item name="edit5" type="id" />
+    <item name="format1" type="id" />
+    <item name="format2" type="id" />
+    <item name="view1" type="id" />
+    <item name="view2" type="id" />
+    <item name="help1" type="id" />
+    <item name="help2" type="id" />
+    <item name="help3" type="id" />
+</resources>
